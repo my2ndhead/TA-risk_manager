@@ -1,5 +1,5 @@
 # Technology Add-on for Risk Manager
-- **Authors**:      Simon Balz <simon@balz.me>, Mika Borner <mika.borner@gmail.com>
+- **Authors**:      Simon Balz <simon@balz.me>, Mika Borner <mika.borner@gmail.com>, Christoph Dittmann <mulibu.flyingk@gmail.com>, Harun Kuessner <h.kuessner@posteo.de>
 - **Description**:  Technology Add-on for Risk Manager
 - **Version**:      1.0
 
