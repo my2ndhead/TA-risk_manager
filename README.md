@@ -8,7 +8,9 @@
   - Initial Push
 
 ## Release Notes
-- **v0.1**    /   2015-06-14
+- **v1.0**	/	2015-07-20
+  - Release for Apptitude2 submission
+- **v0.1**	/	2015-06-14
   - Initital Push
 
 ## Credits
